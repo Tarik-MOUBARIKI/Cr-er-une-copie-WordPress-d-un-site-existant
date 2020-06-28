@@ -1,5 +1,3 @@
-Brief "11"
-Blog of Projects  - 		CMS - WordPress
 
 
 ## How To Run??
@@ -28,7 +26,7 @@ Now Connecting Database
 ```
 After Creating Database,
 ```
- 9th Step: Open a browser and go to URL "http://localhost/wordpress-brief/"
+ 9th Step: Open a browser and go to URL "http://localhost/wordpress-brief/
 ```
 
 To login as Admin:,
